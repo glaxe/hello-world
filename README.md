@@ -1,2 +1,3 @@
 # hello-world
-For Git Tutorial
+For Github Tutorial
+First time use Github
